@@ -12,7 +12,10 @@ Send WAV files to the Digitone II's sampler mod over USB, from Chrome or Edge (W
   Close Elektron Transfer first.
 - Pick the Digitone II's MIDI ports and click **Connect**. The tool shows what is on the
   instrument now and how much room there is.
-- Drop or browse WAVs. Choose how they go in:
+- Drop or browse WAVs, or whole folders: each sample keeps its folder's name, and the
+  instrument's sample browser (FUNC + YES in the sample list, firmware v0.25 or later)
+  shows them by folder. Names can be up to 35 characters.
+- Choose how they go in:
   - **Replace all, in list order**: your samples become SAMP 1, 2, 3... (recordings stay);
   - **Replace all, choose each slot**;
   - **Add**: only the new samples are sent, into the slots you choose; what is already
