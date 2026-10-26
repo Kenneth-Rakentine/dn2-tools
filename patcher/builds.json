@@ -1,5 +1,13 @@
 [
  {
+  "version": "0.25",
+  "name": "BROWSER",
+  "sha256": "bf838003ef8beb29f5903cd5a67f59cae4f6bfebead35ac11877b19cfc2a7f9a",
+  "zip": "dnfw-v0.25.zip",
+  "zip_sha256": "376cc9f17c264d658a99afae997a6f3b8eda713dcd9a04406655212892eba73a",
+  "file": "DN2mod_v0.25_BROWSER_OS1.11.syx"
+ },
+ {
   "version": "0.24",
   "name": "PI",
   "sha256": "f5853cdb5947204c5ada072f96ea02eb1890a015a2bc151a697b0fe67401d78c",
